@@ -1,9 +1,9 @@
 import React from 'react';
-import s from './Home.module.scss'
-export const Home = () => {
+import s from './MonthStatistics.module.scss'
+export const MonthStatistics = () => {
     return (
         <div className={s.home}>
-            Home
+            MonthStatisticshhhhh
         </div>
     );
 };
