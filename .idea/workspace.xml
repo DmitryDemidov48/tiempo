@@ -4,14 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="565c5e70-e7b1-40db-a69b-0d3ca5037a01" name="Changes" comment="1-commit" />
+    <list default="true" id="565c5e70-e7b1-40db-a69b-0d3ca5037a01" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="510bc0ff-f155-491f-bb0b-e14c3c17e778" />
+        <option name="url" value="https://github.com/DmitryDemidov48/tiempo.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,6 +95,9 @@
       <workItem from="1676243835910" duration="51000" />
       <workItem from="1676244633087" duration="996000" />
       <workItem from="1676245682105" duration="671000" />
+      <workItem from="1676267274712" duration="1691000" />
+      <workItem from="1676338846605" duration="201000" />
+      <workItem from="1676408082307" duration="67000" />
     </task>
     <task id="LOCAL-00001" summary="1-commit">
       <created>1676245219241</created>
@@ -82,15 +106,65 @@
       <option name="project" value="LOCAL" />
       <updated>1676245219242</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3-commit">
+      <created>1676267477028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676267477028</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3-commit">
+      <created>1676267760039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676267760039</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1676267783962</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676267783962</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="5970abfa-b199-4e0f-9fbc-bd392bceb036">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="874a152d-2985-4cd8-947b-b145bf1fca25">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="5970abfa-b199-4e0f-9fbc-bd392bceb036" value="TOOL_WINDOW" />
+        <entry key="874a152d-2985-4cd8-947b-b145bf1fca25" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1-commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-commit" />
+    <MESSAGE value="3-commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
