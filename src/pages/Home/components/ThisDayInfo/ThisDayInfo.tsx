@@ -27,11 +27,11 @@ export const ThisDayInfo = () => {
             name: 'Осадки',
             value: 'Без осадков',
         },
-        {
+       /* {
             icon_id:'wind',
             name: 'Ветер',
             value: '3 м/с юго-запад - легкий ветер',
-        },
+        },*/
     ];
     return (
         <div className={s.this__day_info}>
